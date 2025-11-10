@@ -13,13 +13,13 @@ I’m Muskan Gupta, a Software Engineer and Data Engineer at the intersection of
 
 💻 Key Projects  
 
-- **[Flyway](link)** – AI Immigration Eligibility Analyzer  
+- **[Flyway](https://github.com/gmuskan95/visa-eligibility-analyzer)** – AI Immigration Eligibility Analyzer  
   Full-stack Flask app using Claude API to analyze multi-visa eligibility; built an AI resume parser, reducing manual entry by 80%.  
 
-- **[Trail Steward]** – Outdoor Recreation Platform  
+- **Trail Steward** – Outdoor Recreation Platform
   Building 0-to-1 MVP connecting hikers and trail managers; designed geospatial queries & API surfaces (TypeScript, Firebase). *Proprietary project, not publicly available.*
 
-- **[RealSeal](link)** – AI Image Detection Tool (Hack4Impact 1st place)  
+- **[RealSeal](https://github.com/AnnhScribner/HackForImpact)** – AI Image Detection Tool (Hack4Impact 1st place)  
   Fine-tuned CV Transformer for AI-generated image detection; built Python/Flask inference API for real-time predictions.  
 
 🛠️ Technical Skills  
