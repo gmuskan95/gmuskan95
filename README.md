@@ -1,6 +1,4 @@
-## Hi there 👋
-
-👋 Hi there!  
+## 👋 Hi, I’m Muskan — Software Engineer | Data & UX | Building Inclusive Tech
 
 I’m Muskan Gupta, a Software Engineer and Data Engineer at the intersection of **large-scale systems** and **human-centered design**. I build distributed data pipelines, identity graphs, and AI-assisted tools, while advocating for inclusive, equitable technology. I’m actively exploring new opportunities in **Data Engineering, Full-Stack Engineering, or UX Research**.  
 
@@ -40,7 +38,7 @@ Makeup artistry, mental health advocacy, LGBTQIA+ rights, RuPaul’s Drag Race &
 
 🚀 Let’s Connect!  
 
-I’m actively seeking opportunities to combine **technical engineering, UX, and social impact**. If you’re building inclusive tech, scaling data systems, or working on social-good projects, send me a message—I’d love to collaborate!
+I’m actively seeking opportunities to combine **technical engineering, UX, and social impact**. If you’re building inclusive tech, scaling data systems, or working on social-good projects, send me a message—I’d love to collaborate! 🌸
 
 [LinkedIn](https://www.linkedin.com/in/guptamuskan/) | [GitHub](https://github.com/gmuskan95)
 
