@@ -43,7 +43,7 @@ Makeup artistry, mental health advocacy, LGBTQIA+ rights, RuPaul’s Drag Race &
 
 I’m actively seeking opportunities to combine **technical engineering, UX, and social impact**. If you’re building inclusive tech, scaling data systems, or working on social-good projects, send me a message- I’d love to collaborate! 👯
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/guptamuskan/) 
+📫 Reach out on [LinkedIn](https://www.linkedin.com/in/guptamuskan/) 
 
 <!--
 **gmuskan95/gmuskan95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
