@@ -2,8 +2,6 @@
 
 I’m Muskan Gupta, a Software Engineer and Data Engineer at the intersection of **large-scale systems** and **human-centered design**. I build distributed data pipelines, identity graphs, and AI-assisted tools, while advocating for inclusive, equitable technology. I’m actively exploring new opportunities in **Data Engineering, Full-Stack Engineering, or UX Research**.  
 
-📍 Seattle, WA (Originally from India) | Pronouns: She/Her
-
 
 🌟 What Makes Me Unique  
 
