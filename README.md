@@ -14,6 +14,9 @@ I'm a Software Engineer at the intersection of **large-scale systems** and **hum
 - **[Flyway](https://github.com/gmuskan95/visa-eligibility-analyzer)** – AI Immigration Eligibility Analyzer  
   Full-stack Flask app using Claude API to analyze multi-visa eligibility; built an AI resume parser, reducing manual entry by 80%.  
 
+- **[PromptShield](https://github.com/YOUR_USERNAME/PromptShield)** – Privacy-Focused AI Prompt Protection  
+  Browser extension that detects and redacts PII (emails, phone numbers, SSNs, API keys, IPs, etc.) before prompts are sent to AI chat services; built with TypeScript, Chrome APIs, and real-time regex-based detection.
+
 - **🌱 Trail Steward** – Outdoor Recreation Platform  
   Currently working on 0-to-1 MVP connecting hikers and trail managers; designed geospatial queries & API surfaces (TypeScript, Firebase). *Proprietary project, not publicly available.*
 
